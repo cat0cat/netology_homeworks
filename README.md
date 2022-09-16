@@ -108,6 +108,8 @@
 - [Query](https://github.com/cat0cat/Http_Web/tree/feature/query)
 - [x-www-form-urlencoded](https://github.com/cat0cat/Http_Web/tree/feature/form)
 
+1.3 JS, Ajax, REST, JSON, CORS (домашнее задание не предусмотрено)
+
 ## Блок 2. Java EE, Java Servlets
 
 2.1 Servlets Containers
