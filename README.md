@@ -4,7 +4,7 @@
 
 1.1 Лямбда-выражения и функциональные интерфейсы
 - [Задача "Калькулятор"](https://github.com/cat0cat/JavaCore_1.1.1_Lambda_Calculator.git)
-- [Задача ""Работяга"](https://github.com/cat0cat/JavaCore_1.1.2_Lambda_Worke.gitr)
+- [Задача "Работяга"](https://github.com/cat0cat/JavaCore_1.1.2_Lambda_Worke.gitr)
 
 1.2 Stream API. Потоки, повторные вызовы, основные методы
 - [Работа с числами](https://github.com/cat0cat/JavaCore_1.2.1_Streams.git)
